@@ -5,3 +5,6 @@ Along
 Git
 Pull
 Console.log("Hello, World!")
+Git push
+Git pull
+Git commit
